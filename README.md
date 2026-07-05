@@ -8,7 +8,7 @@
 | Muhammad Nabil Ali | [2410010325] | [Backend, Game Logic & System Integrator (Node.js, WebSocket, MySQL Integration)] |
 | Jenny Maritha | [24100161] | [Environment Setup, Database Design & Tester (Laragon, HeidiSQL, Skema Database, Pengujian Multiplayer)] |
 | Jhon Hartman Benigmo M. | [2410010197 | [Database & Dashboard Developer (PHP, MySQL, REST API)]
-*(Hapus baris yang tidak perlu jika anggotanya hanya berdua)*
+
 
 ## Link Penting
 * **Video Demo:** [https://youtu.be/xRSJab0926o](https://youtu.be/8vHO3Csya-k)
