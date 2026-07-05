@@ -12,8 +12,8 @@
 
 ## Link Penting
 * **Video Demo:** [https://youtu.be/xRSJab0926o](https://youtu.be/8vHO3Csya-k)
-* **Proposal:** [proposal.pdf](proposal.pdf)
-* **Laporan Akhir:** [laporan_akhir.pdf](laporan_akhir.pdf)
+* **Proposal:** [proposal.pdf](PROPOSAL_PEMBUATAN_GAME_TYPING_BATTLE_(1).pdf)
+* **Laporan Akhir:** [laporan_akhir.pdf](laporan_akhir.docx)
 * **Slide Presentasi:** [slide_presentasi.pdf](slide_presentasi.pdf)
 
 
