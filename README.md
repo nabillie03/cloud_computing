@@ -16,7 +16,7 @@
 * **Laporan Akhir:** [laporan_akhir.pdf](laporan_akhir.pdf)
 * **Slide Presentasi:** [slide_presentasi.pdf](slide_presentasi.pdf)
 
-*(Catatan: Pastikan nama file di dalam kurung () sama persis dengan nama file PDF yang kamu upload di Langkah 2, perhatikan huruf besar/kecilnya)*
+
 
 ## Teknologi yang Digunakan
 
@@ -27,7 +27,3 @@
 <img width="1920" height="1080" alt="Screenshot 2026-07-05 175217" src="https://github.com/user-attachments/assets/31df9067-c921-4ab8-8f4b-eb44c3f7cf9d" />
 <img width="1920" height="1080" alt="Screenshot 2026-07-05 175301" src="https://github.com/user-attachments/assets/a80c3824-b459-4e5e-a00c-277e81ce2f98" />
 <img width="1920" height="1080" alt="Screenshot 2026-07-05 175455" src="https://github.com/user-attachments/assets/a8fecbf6-2e72-40de-8f51-2746fae7f705" />
-
-
-*(Catatan: Ganti `screenshot1.png` dan seterusnya dengan nama file gambar yang sebenarnya kamu upload)*
-
