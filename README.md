@@ -14,7 +14,7 @@
 * **Video Demo:** [https://youtu.be/xRSJab0926o](https://youtu.be/8vHO3Csya-k)
 * **Proposal:** [proposal.pdf](https://drive.google.com/file/d/10isLotSZo96S0SoDpkS9WQiTFfCUxXcx/view?usp=sharing)
 * **Laporan Akhir:** [laporan_akhir.docx](https://docs.google.com/document/d/1Vq_8CeQBXuluHt8SdLPxuI2BFbuNlFnD/edit?usp=sharing&ouid=111795942617705582607&rtpof=true&sd=true)
-* **Slide Presentasi:** [slide_presentasi.pptx](Typing_Battle_Presentation.pp](https://docs.google.com/presentation/d/1P2bdOr1ba8GbI04h7XzlgXG3K0LfqIwC/edit?usp=sharing&ouid=111795942617705582607&rtpof=true&sd=true))
+* **Slide Presentasi:** [slide_presentasi.pptx](Typing_Battle_Presentation.pptx](https://docs.google.com/presentation/d/1P2bdOr1ba8GbI04h7XzlgXG3K0LfqIwC/edit?usp=sharing&ouid=111795942617705582607&rtpof=true&sd=true))
 
 
 
