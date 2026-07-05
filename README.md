@@ -7,7 +7,7 @@
 | Muhammad Raditya Rizky K. | [2410010115] | [Frontend Developer (UI/UX, HTML5, CSS3, WebSocket Client)] |
 | Muhammad Nabil Ali | [2410010325] | [Backend, Game Logic & System Integrator (Node.js, WebSocket, MySQL Integration)] |
 | Jenny Maritha | [24100161] | [Environment Setup, Database Design & Tester (Laragon, HeidiSQL, Skema Database, Pengujian Multiplayer)] |
-| Jhon Hartman Benigmo M. | [2410010197 | [Database & Dashboard Developer (PHP, MySQL, REST API)]
+| Jhon Hartman Benigmo T. | [2410010197 | [Database & Dashboard Developer (PHP, MySQL, REST API)]
 
 
 ## Link Penting
