@@ -13,8 +13,8 @@
 ## Link Penting
 * **Video Demo:** [https://youtu.be/xRSJab0926o](https://youtu.be/8vHO3Csya-k)
 * **Proposal:** [proposal.pdf](PROPOSAL_PEMBUATAN_GAME_TYPING_BATTLE_(1).pdf)
-* **Laporan Akhir:** [laporan_akhir.pdf](laporan_akhir.docx)
-* **Slide Presentasi:** [slide_presentasi.pdf](slide_presentasi.pdf)
+* **Laporan Akhir:** [laporan_akhir.docx](Laporan_Akhir_Typing_Battle_Kelompok_5(1).docx)
+* **Slide Presentasi:** [slide_presentasi.pptx](Typing_Battle_Presentation.pptx)
 
 
 
