@@ -19,8 +19,10 @@
 
 
 ## Teknologi yang Digunakan
-
-PHP
+* PHP
+* JavaScript
+* MySQL
+* 
 
 ## Screenshot Sistem
 
