@@ -20,7 +20,7 @@
 
 ## Teknologi yang Digunakan
 
-
+PHP
 
 ## Screenshot Sistem
 
